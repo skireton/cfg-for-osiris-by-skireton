@@ -1,0 +1,14 @@
+hello thanks for using my cfg i hope you like it.
+
+ABOUT IT:
+
+this cfg dont use the normal aimbot,it uses a custom skript that makes it 10000 times better if it shows its not on (i mean the aimbot)
+THATS BECAUSE IT USES CUSTOM ONE :3 
+
+Enjoy the cfg :)
+
+
+HOW TO USE IT (MUST READ :3)
+
+
+copy the HVH file and paste it into Documends/osiris folder (you should see your cfgs)
